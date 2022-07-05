@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "hierarchical-list-client-side-solution",
+    "id": "66995f67-ff04-44ee-959b-c108179fe49e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "hierarchical-list description"
+      },
+      "longDescription": {
+        "default": "hierarchical-list description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "hierarchical-list Feature",
+        "description": "The feature that activates elements of the hierarchical-list solution.",
+        "id": "6790755b-4a58-44bb-9f76-b69779a207f8",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/hierarchical-list.sppkg"
+  }
+}

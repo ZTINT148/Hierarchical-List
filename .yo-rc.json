@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "hierarchical-list",
+    "libraryId": "66995f67-ff04-44ee-959b-c108179fe49e",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "hierarchical-list",
+    "solutionShortDescription": "hierarchical-list description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
